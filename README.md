@@ -1,0 +1,2 @@
+# ethchal
+Ethereum challenge
